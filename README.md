@@ -35,12 +35,12 @@
 
 ---
 
-##INFO Y CARACTERISTICAS DE LOS PERSONAJES 
+## INFO Y CARACTERISTICAS DE LOS PERSONAJES 
 <img width="1917" height="1198" alt="Captura de pantalla 2026-09-28 083609" src="https://github.com/user-attachments/assets/1c1eea84-c180-400d-a44d-14fed22e6491" />
 
 ---
 
-##BARRA DE BUSQUEDA FUNCIONAL 
+## BARRA DE BUSQUEDA FUNCIONAL 
 <img width="1917" height="1198" alt="Captura de pantalla 2026-09-28 083651" src="https://github.com/user-attachments/assets/7747bad9-2fe3-42dd-ab93-814dc1fe6690" />
 
 ---
